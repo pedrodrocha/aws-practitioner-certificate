@@ -87,7 +87,7 @@
 
 ## 3) Technology (33%)
 
-### **3.1) Define methods of deploying and operating in the AWS Cloud**
+### **3.1) [Define methods of deploying and operating in the AWS Cloud](03_technology/03.01_methods-of-deploying-and-operating-in-the-cloud.md)**
 
 #### *Identify at a high level different ways of provisioning and operating in the AWS cloud*
 - Programmatic access, APIs, SDKs, AWS Management Console, CLI, Infrastructure as Code
