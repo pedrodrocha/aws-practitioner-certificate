@@ -2,7 +2,7 @@
 
 ## 1) **Cloud Concepts (26%)**
 
-### **1.1) [Define the AWS Cloud and its value proposition](01_cloud-concepts\01.01_aws-cloud-definition-and-value.md)**
+### **1.1) [Define the AWS Cloud and its value proposition](01_cloud-concepts/01.01_aws-cloud-definition-and-value.md)**
 
 #### *Define the benefits of the AWS cloud including:*
 - Security  
@@ -19,7 +19,7 @@
 
 - Shifting technical resources to revenue-generating activities as opposed to managing infrastructure
 
-### **1.2) [Identify aspects of AWS Cloud economics](01_cloud-concepts\01.02_identify-aspects-of-aws-cloud-economics.md)**
+### **1.2) [Identify aspects of AWS Cloud economics](01_cloud-concepts/01.02_identify-aspects-of-aws-cloud-economics.md)**
 
 #### *Define items that would be part of a Total Cost of Ownership proposal*
 - Understand the role of operational expenses (OpEx)
